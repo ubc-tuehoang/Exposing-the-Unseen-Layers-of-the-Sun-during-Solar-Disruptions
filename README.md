@@ -25,7 +25,7 @@ _source: https://www.swpc.noaa.gov/_
 
 ---------------
 
-_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
+_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
 
 ![alt text](image-4.png)
 
@@ -38,7 +38,7 @@ _source: https://www.swpc.noaa.gov/_
 
 ---------------
 
-_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
+_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
 
 ![alt text](image-1.png)
 
@@ -50,7 +50,7 @@ _source: https://www.swpc.noaa.gov/_
 
 ---------------
 
-_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
+_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
 
 ![alt text](image-2.png)
 
