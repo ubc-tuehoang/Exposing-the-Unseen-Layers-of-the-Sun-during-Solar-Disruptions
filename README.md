@@ -1,18 +1,9 @@
-# Exposing the Unseen Layers of the Sun during Solar Disruptions
+# Exposing the Unseen Layers of the Sun during Solar Disruptions of Oct-2024
 
 - Dare to Dream
 - Inspire Bold Leadership
 - Embrace Diversity in Thought and Innovation
 - Explore & Unveil the Depths of Interplanetary Knowledge
-
-----------------------
-
-Exposing the Unseen Layers of the Sun during Solar Disruptions October 2024
-
-![alt text](image.png)
-
-
-source: https://www.swpc.noaa.gov/
 
 ----------------------
 
@@ -26,11 +17,40 @@ _Note: The code was executed on my personal MacBook Pro (Retina, Mid 2012)._
 
 ## Exposing the Unseen Layers of the Sun during Solar Disruptions October 2024
 
+### GOES-16SUVI-2024-10-09-20-24-35
+
+_source: https://www.swpc.noaa.gov/_
+
+![alt text](image-3.png)
+
+---------------
+
+_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
+
+![alt text](image-4.png)
+
+
 ### GOES-16SUVI-2024-10-11-02-04-36
+
+_source: https://www.swpc.noaa.gov/_
+
+![alt text](image.png)
+
+---------------
+
+_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
 
 ![alt text](image-1.png)
 
 ### GOES-16SUVI-2024-10-13-16-48-38
+
+_source: https://www.swpc.noaa.gov/_
+
+![alt text](image-5.png)
+
+---------------
+
+_Note: The images below were generated on my personal MacBook Pro (Retina, Mid 2012)._
 
 ![alt text](image-2.png)
 
