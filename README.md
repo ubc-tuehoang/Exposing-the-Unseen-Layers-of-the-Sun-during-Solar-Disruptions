@@ -26,7 +26,7 @@ _source: https://www.swpc.noaa.gov/_
 ---------------
 #### Solar Slices from GOES-16SUVI-2024-10-09-20:24:35
 
-<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
+<!--_Note: The images below were sliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-4.png)
 
@@ -41,7 +41,7 @@ _source: https://www.swpc.noaa.gov/_
 
 #### Solar Slices from GOES-16SUVI-2024-10-11-02:04:36
 
-<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
+<!--_Note: The images below were sliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-1.png)
 
@@ -55,10 +55,10 @@ _source: https://www.swpc.noaa.gov/_
 
 #### Solar Slices from GOES-16SUVI-2024-10-13-16:48:38
 
-<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
+<!--_Note: The images below were sliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-2.png)
 
 ---------------
 
-_Additional Splices: https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-of-the-Sun-during-Solar-Disruptions/tree/main/splices_
+_Additional Slices: https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-of-the-Sun-during-Solar-Disruptions/tree/main/slices_
