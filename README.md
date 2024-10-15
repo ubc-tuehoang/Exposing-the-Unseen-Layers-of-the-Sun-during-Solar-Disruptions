@@ -11,7 +11,7 @@ This idea introduces an unconventional method for segmenting solar images using 
 
 The method not only deepens our understanding of solar phenomena but also holds promise for advancing space weather forecasting and the broader study of astrophysical processes.
 
-_Note: The code was run to generate Solar Slices on my personal MacBook Pro (Retina, Mid 2012)._
+<!--_Note: The code was run to generate Solar Slices on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 -----------------------
 
