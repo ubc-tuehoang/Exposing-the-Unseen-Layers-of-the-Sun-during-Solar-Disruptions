@@ -11,26 +11,27 @@ This idea introduces an unconventional method for segmenting solar images using 
 
 The method not only deepens our understanding of solar phenomena but also holds promise for advancing space weather forecasting and the broader study of astrophysical processes.
 
-_Note: The code was executed on my personal MacBook Pro (Retina, Mid 2012)._
+_Note: The code was run to generate Solar Slices on my personal MacBook Pro (Retina, Mid 2012)._
 
 -----------------------
 
 ## Exposing the Unseen Layers of the Sun during Solar Disruptions October 2024
 
-### GOES-16SUVI-2024-10-09-20-24-35
+### GOES-16SUVI-2024-10-09-20:24:35
 
 _source: https://www.swpc.noaa.gov/_
 
 ![alt text](image-3.png)
 
 ---------------
+#### Solar Slices from GOES-16SUVI-2024-10-09-20:24:35
 
-_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
+<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-4.png)
 
 
-### GOES-16SUVI-2024-10-11-02-04-36
+### GOES-16SUVI-2024-10-11-02:04:36
 
 _source: https://www.swpc.noaa.gov/_
 
@@ -38,11 +39,13 @@ _source: https://www.swpc.noaa.gov/_
 
 ---------------
 
-_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
+#### Solar Slices from GOES-16SUVI-2024-10-11-02:04:36
+
+<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-1.png)
 
-### GOES-16SUVI-2024-10-13-16-48-38
+### GOES-16SUVI-2024-10-13-16:48:38
 
 _source: https://www.swpc.noaa.gov/_
 
@@ -50,7 +53,9 @@ _source: https://www.swpc.noaa.gov/_
 
 ---------------
 
-_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._
+#### Solar Slices from GOES-16SUVI-2024-10-13-16:48:38
+
+<!--_Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 2012)._-->
 
 ![alt text](image-2.png)
 
