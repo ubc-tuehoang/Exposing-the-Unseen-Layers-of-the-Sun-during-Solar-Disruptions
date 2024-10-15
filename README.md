@@ -56,4 +56,4 @@ _Note: The images below were spliced on my personal MacBook Pro (Retina, Mid 201
 
 ---------------
 
-_Additional Splices: https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-of-the-Sun-during-Solar-Disruptions/tree/main/splices
+_Additional Splices: https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-of-the-Sun-during-Solar-Disruptions/tree/main/splices_
